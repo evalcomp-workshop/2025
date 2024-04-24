@@ -900,7 +900,7 @@ a {
 }
   @media screen and (min-width: 64em) {
     .page-header {
-      background-image: url("../images/banner_full.png");
+      background-image: url("../images/banner_full_24.png");
       /* min-height: 700px; */
       padding-top: 600px;
       padding-bottom: 50px;
@@ -910,7 +910,7 @@ a {
     } }
   @media screen and (min-width: 42em) and (max-width: 64em) {
     .page-header {
-      background-image: url("../images/banner_medium.png");
+      background-image: url("../images/banner_medium_24.png");
       /* min-height: 400px; */
       padding-top: 350px;
       padding-bottom: 50px;
@@ -918,7 +918,7 @@ a {
     } }
   @media screen and (max-width: 42em) {
     .page-header {
-      background-image: url("../images/banner_small.png");
+      background-image: url("../images/banner_small_24.png");
       padding-top:350px;
       padding-bottom: 70px;
       /* padding: 2rem 1rem;  */
