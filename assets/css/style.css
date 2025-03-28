@@ -918,7 +918,7 @@ a {
     } }
   @media screen and (max-width: 42em) {
     .page-header {
-      background-image: url("../images/banner_small_24.png");
+      background-image: url("../images/2025_banner.png");
       padding-top:350px;
       padding-bottom: 70px;
       /* padding: 2rem 1rem;  */
